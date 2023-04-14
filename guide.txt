@@ -1,0 +1,10 @@
+** This is a token depposit smart contract  
+
+** This contract uses ERC20 token as deposit
+
+** This contract has 5 slabs which fills from highest to Lowest levels
+
+** This contract uses hardhat fot testing and deploying the smart contract
+
+** The mock ERC20 token and IERC20 interface is  imported from openzeppelin package
+
